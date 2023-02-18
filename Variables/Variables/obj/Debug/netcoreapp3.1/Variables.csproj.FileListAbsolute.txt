@@ -1,0 +1,14 @@
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.AssemblyReference.cache
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache
