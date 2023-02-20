@@ -1,0 +1,14 @@
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.exe
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.deps.json
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.json
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.dev.json
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.dll
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\TypeConversion\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.pdb
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.csproj.AssemblyReference.cache
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfoInputs.cache
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfo.cs
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.dll
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.pdb
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\TypeConversion\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.genruntimeconfig.cache
