@@ -1,0 +1,14 @@
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.AssemblyReference.cache
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\gabriel.santos\Desktop\CSharpFundamentals\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache
